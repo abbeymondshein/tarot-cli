@@ -1,25 +1,25 @@
 {
-  "name": "ichingcli",
+  "name": "tarotcli",
   "version": "1.0.0",
-  "description": "CLI app to cast i-ching",
-  "main": "cast.js",
+  "description": "CLI app to draw Tarot",
+  "main": "draw.js",
   "bin": {
-    "iching": "./cast.js"
+    "iching": "./draw.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node cast.js --cast"
+    "start": "node draw.js --draw"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abbeymondshein/i-ching-cli.git"
+    "url": "git+https://github.com/abbeymondshein/tarot-cli.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abbeymondshein/i-ching-cli/issues"
+    "url": "https://github.com/abbeymondshein/tarot-cli/issues"
   },
-  "homepage": "https://github.com/abbeymondshein/i-ching-cli#readme",
+  "homepage": "https://github.com/abbeymondshein/tarot-cli#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.20.0",
