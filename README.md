@@ -1,11 +1,12 @@
-# I-Ching CLI
-*Consult the I-Ching directly from the Command Line*
+# Tarot CLI
 
-![Consult the I-Ching directly from the Command Line](/gifs/casting2-lg.gif "Consult the I-Ching directly from the Command Line")
+_Consult the Tarot directly from the Command Line_
 
-It's never been easier to consult the I-Ching. This app programmatically generates each hexagram using the traditional coin toss method.
+<!-- ![Consult the I-Ching directly from the Command Line](/gifs/casting2-lg.gif "Consult the I-Ching directly from the Command Line") -->
 
----
+It's never been quicker & easier to consult the Tarot from your computer.
+
+<!-- ---
 
 ## Installation
 
@@ -14,7 +15,6 @@ It's never been easier to consult the I-Ching. This app programmatically generat
 - Clone this repo to your local machine using `https://github.com/abbeymondshein/i-ching-cli.git`
 
 ### Setup
-
 
 > after cloning, install dependencies
 
@@ -28,4 +28,4 @@ $ npm install -g .
 $ npm start
 $ iching --cast
 $ iching -c
-```
+``` -->
